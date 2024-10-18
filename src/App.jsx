@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
-import Sidebar from './Components/sidebar'
+import Sidebar from './Components/Sidebar'
 import Player from './Components/Player'
 import Display from './Components/Display'
 import { useContext } from 'react'
