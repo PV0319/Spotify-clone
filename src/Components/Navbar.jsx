@@ -15,7 +15,7 @@ const Navbar = () => {
                 <div className="flex items-center gap-4">
                     <p className="bg-white text-black px-4 py-1 text-[15px] rounded-2xl font-semibold lg:block hidden cursor-pointer transform transition-transform duration-300 hover:scale-110 hover:bg-[#1db954] border-solid border-2  border-yellow-500">
                         Explore Premium</p>
-                    <p className="bg-black text-white px-3 py-1 text-[15px] rounded-2xl font-semibold cursor-pointer"><span></span>Install App</p>
+                    <p className="bg-black text-white px-3 py-1 text-[15px] rounded-2xl font-semibold cursor-pointer  transform transition-transform duration-300 hover:scale-110"><span></span>Install App</p>
                     <p className="bg-amber-500 w-7 h-7 text-black rounded-full items-center justify-center flex">PV</p>
                 </div>
             </div>
